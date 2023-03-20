@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samarthshete&label=Profile%20views&color=0e75b6&style=flat" alt="samarthshete" /> </p>
 
-- 🔭 I’m currently working on **Job Tracking App, which has helped me develop my React, Node.js, Express.js, MongoDB, Postman**
-
 - 🌱 I’m currently learning **Data Structures and Algorithms, Web Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/samarthshete/samarthshete](https://github.com/samarthshete/samarthshete)
