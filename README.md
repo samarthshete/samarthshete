@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/samarthshete/samarthshete](https://github.com/samarthshete/samarthshete)
 
-- 📫 How to reach me **If you'd like to connect, you can reach me at samarthshete14@gmail.com or find me on linkedin samarthshete14. I'm always open to new opportunities and would love to hear from you.**
-
 - ⚡ Fun fact **Chai tastes way better than Coffee | Change my mind!**
 
 <h3 align="left">Connect with me:</h3>
