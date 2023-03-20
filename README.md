@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samarthshete&label=Profile%20views&color=0e75b6&style=flat" alt="samarthshete" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samarthshete" alt="samarthshete" /></a> </p>
-
 - 🔭 I’m currently working on **Job Tracking App, which has helped me develop my React, Node.js, Express.js, MongoDB, Postman**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms, Web Development**
