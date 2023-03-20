@@ -1,97 +1,32 @@
-<!--# Namaste 🙏-->
-<div align="center">
-<!-- <img src="https://miro.medium.com/max/1600/1*0KFB17_NGTPB0XWyc4BSgQ.jpeg" alt="Hello World"> -->
-<img height="300px" src="https://media1.tenor.com/images/25de5ae4b3a35de905166d6a8cc92411/tenor.gif?itemid=13245309" alt="Hello World">
- 
-</div>
+<h1 align="center">Hi 👋, I'm Samarth Shete</h1>
+<h3 align="center">A passionate frontend developer from India. and I am a recent graduate with a Bachelor of Technology in Computer Engineering.I am excited to begin my journey in the professional world and eager to learn as much as I can</h3>
 
-<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=samarthshete&label=Profile%20views&color=0e75b6&style=flat" alt="samarthshete" /> </p>
 
-<h1 align="center">Hello Geeks 👋, I'm Chaitanya Gupta</h1>
-<h3 align="center">Full Stack Web Developer and UI/UX Designer</h3>
-<br>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samarthshete" alt="samarthshete" /></a> </p>
 
-<br>
+- 🔭 I’m currently working on **Job Tracking App, which has helped me develop my React, Node.js, Express.js, MongoDB, Postman**
 
-Hello, I am [Samarth Shete Gupta](https://www.linkedin.com/in/samarthshete14/) and I am a recent graduate with a Bachelor of Technology in Computer Engineering.I am excited to begin my journey in the professional world and eager to learn as much as I can 
+- 🌱 I’m currently learning **Data Structures and Algorithms, Web Development**
 
-<img align="right" width="200px" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="programming meme">
- 
-<!--  <img align="right" width="150px" src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" alt="gif"> -->
- 
-  <br><br>
- 
-- 🌱 I’m currently learning Data Structures and Algorithms, Web Development.
-- 👯 I’m looking to collaborate on MERN Stack projects and Blockchain Projects.
-- 💬 Ask me about Web Technologies
-- 📫 My Website: 
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: You just need to type your username in Repository name for creating your github readme. Go ahead and do that if not already!
+- 👨‍💻 All of my projects are available at [https://github.com/samarthshete/samarthshete](https://github.com/samarthshete/samarthshete)
 
-<br>
+- 📫 How to reach me **If you'd like to connect, you can reach me at samarthshete14@gmail.com or find me on linkedin samarthshete14. I'm always open to new opportunities and would love to hear from you.**
 
-<p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
- <p align="center"> <img src="https://komarev.com/ghpvc/?username=Chaitanya31612" alt="Chaitanya31612"/> </p> 
+- ⚡ Fun fact **Chai tastes way better than Coffee | Change my mind!**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/samarthshete14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samarthshete14" height="30" width="40" /></a>
+<a href="https://instagram.com/its_samarthshete" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_samarthshete" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/samarthshet14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="samarthshet14" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/samarthshete14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="samarthshete14" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/samarthshete14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="samarthshete14" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-<!--![](https://komarev.com/ghpvc/?username=Chaitanya31612)-->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samarthshete&show_icons=true&locale=en" alt="samarthshete" /></p>
 
-
-<br>
-<p align="center">
-  
-<img src="https://metrics.lecoq.io/Chaitanya31612" alt="Github Metrics">
-  
-  <br>
-  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Chaitanya31612&theme=algolia" alt="Github Streak Stats">
-  
-</p>
-
-<br><br>
-### Tech Stack I am Familiar With:
-
-<p align="center">
-<img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-<img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-<img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
- <img alt="ExpressJS" src="https://img.shields.io/badge/express%20-%23323330.svg?&style=for-the-badge&logo=express&logoColor=%23F7DF1E"/>
-<img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img alt="Java" src ="https://img.shields.io/badge/java%20-%23E34F26.svg?&style=for-the-badge&logo=java&logoColor=white"/>
-<img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
-<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-<img alt="Git" src="https://img.shields.io/badge/git%20-%23E34F26.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-<img alt="Solidity" src="https://img.shields.io/badge/solidity%20-%2300599C.svg?&style=for-the-badge&logo=solidity&logoColor=white"/>
-<img alt="MySQL" src="https://img.shields.io/badge/mysql%20-%2300599C.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
-<br/>
-</p>
-
-<br>
-
-# Github Stats 📈
-
-<a href="https://github.com/samarthshete">
-    <img src="https://github-readme-stats.vercel.app/api?username=samarthshete&count_private=true&show_icons=true&hide_border=true&theme=algolia"
-                    width="51%" />
-</a>
-<a href="https://github.com/samarthshete?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samarthshete&layout=compact&langs_count=10&hide_border=true&theme=algolia"
-                    width="48%" />
-</a>
-
-<br><br>
-![Samarth](https://activity-graph.herokuapp.com/graph?username=samarthshete&theme=react-dark&show_icons=true&count_private=true&area=true&hide_border=true)
-<!--<img src="https://activity-graph.herokuapp.com/graph?username=Chaitanya31612&show_icons=true&count_private=true&area=true&hide_border=true" /> -->
-
-<h3 align="center">Find me here:</h3>
-<p align="center">
- <a href="https://www.leetcode.com/samarthshete14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="samarthshete/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/samarthshete/practice/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gfg" height="30" width="40" /></a>
- <a href="https://www.linkedin.com/in/samarthshete14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samarthshete" height="30" width="40" /></a>
-<!-- <a href="https://medium.com/@guptachaitanya31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@samarthshete" height="30" width="40" /></a> -->
- 
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samarthshete&" alt="samarthshete" /></p>
