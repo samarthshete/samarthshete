@@ -13,7 +13,7 @@
 
 <br>
 
-Hello, I am [Chaitanya Gupta](https://www.linkedin.com/in/guptachaitanya/) and I love working on new and exciting technologies emerging nowadays. 
+Hello, I am [Samarth Shete Gupta](https://www.linkedin.com/in/samarthshete14/) and I am a recent graduate with a Bachelor of Technology in Computer Engineering.I am excited to begin my journey in the professional world and eager to learn as much as I can 
 
 <img align="right" width="200px" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="programming meme">
  
@@ -21,10 +21,10 @@ Hello, I am [Chaitanya Gupta](https://www.linkedin.com/in/guptachaitanya/) and I
  
   <br><br>
  
-- 🌱 I’m currently learning Blockchain Development, Web Development, Web designs.
+- 🌱 I’m currently learning Data Structures and Algorithms, Web Development.
 - 👯 I’m looking to collaborate on MERN Stack projects and Blockchain Projects.
 - 💬 Ask me about Web Technologies
-- 📫 My Website: https://chaitanya31612.github.io/
+- 📫 My Website: 
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: You just need to type your username in Repository name for creating your github readme. Go ahead and do that if not already!
 
@@ -74,24 +74,24 @@ Hello, I am [Chaitanya Gupta](https://www.linkedin.com/in/guptachaitanya/) and I
 
 # Github Stats 📈
 
-<a href="https://github.com/Chaitanya31612">
-    <img src="https://github-readme-stats.vercel.app/api?username=Chaitanya31612&count_private=true&show_icons=true&hide_border=true&theme=algolia"
+<a href="https://github.com/samarthshete">
+    <img src="https://github-readme-stats.vercel.app/api?username=samarthshete&count_private=true&show_icons=true&hide_border=true&theme=algolia"
                     width="51%" />
 </a>
-<a href="https://github.com/Chaitanya31612?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaitanya31612&layout=compact&langs_count=10&hide_border=true&theme=algolia"
+<a href="https://github.com/samarthshete?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samarthshete&layout=compact&langs_count=10&hide_border=true&theme=algolia"
                     width="48%" />
 </a>
 
 <br><br>
-![Chaitanya](https://activity-graph.herokuapp.com/graph?username=Chaitanya31612&theme=react-dark&show_icons=true&count_private=true&area=true&hide_border=true)
+![Samarth](https://activity-graph.herokuapp.com/graph?username=samarthshete&theme=react-dark&show_icons=true&count_private=true&area=true&hide_border=true)
 <!--<img src="https://activity-graph.herokuapp.com/graph?username=Chaitanya31612&show_icons=true&count_private=true&area=true&hide_border=true" /> -->
 
 <h3 align="center">Find me here:</h3>
 <p align="center">
- <a href="https://www.leetcode.com/Chaitanya31612" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Chaitanya31612/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/guptachaitanya31/practice/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gfg" height="30" width="40" /></a>
- <a href="https://www.linkedin.com/in/guptachaitanya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guptachaitanya" height="30" width="40" /></a>
-<a href="https://medium.com/@guptachaitanya31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@guptachaitanya31" height="30" width="40" /></a>
-<a href="https://twitter.com/Chaitan33456747" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Chaitan33456747" height="30" width="40" /></a>
+ <a href="https://www.leetcode.com/samarthshete14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="samarthshete/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/samarthshete/practice/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gfg" height="30" width="40" /></a>
+ <a href="https://www.linkedin.com/in/samarthshete14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samarthshete" height="30" width="40" /></a>
+<!-- <a href="https://medium.com/@guptachaitanya31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@samarthshete" height="30" width="40" /></a> -->
+ 
 </p>
