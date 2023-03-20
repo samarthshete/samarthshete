@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms, Web Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/samarthshete/samarthshete](https://github.com/samarthshete/samarthshete)
+- 👨‍💻 All of my projects are available at [samarthshete](https://github.com/samarthshete/samarthshete)
 
 - ⚡ Fun fact **Chai tastes way better than Coffee | Change my mind!**
 
