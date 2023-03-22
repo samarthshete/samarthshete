@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Samarth Shete</h1>
 <h3 align="center">A passionate developer from India.</h3>
-
+A **Technophile**  and a **Enthusiastic Learner** , who is obsessed with the idea of improving herself and explore various things.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samarthshete&label=Profile%20views&color=0e75b6&style=flat" alt="samarthshete" /> </p>
 
-- 🌱 I’m currently learning **Data Structures and Algorithms, Web Development**
+- 🌱 I’m currently sharpening **Data Structures and Algorithms, Web Development**
 
 - 👨‍💻 All of my projects are available at [samarthshete](https://github.com/samarthshete/samarthshete)
 
