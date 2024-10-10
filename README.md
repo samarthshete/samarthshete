@@ -5,6 +5,8 @@ A **Technophile**  and a **Enthusiastic Learner** , who is obsessed with the ide
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samarthshete&label=Profile%20views&color=0e75b6&style=flat" alt="samarthshete" /> </p>
 
+- 🎓 Currently studying MS in Computer
+  
 - 🌱 I’m currently sharpening **Data Structures and Algorithms, Web Development**
 
 - 👨‍💻 All of my projects are available at [samarthshete](https://github.com/samarthshete/samarthshete)
