@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samarth Shete</h1>
 <h3 align="center">A passionate developer from India.</h3>
 
-A **Technophile**  and a **Enthusiastic Learner** , who is obsessed with the idea of improving herself and explore various things.
+A **Technophile**  and a **Enthusiastic Learner** , who is obsessed with the idea of improving himself and explore various things.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samarthshete&label=Profile%20views&color=0e75b6&style=flat" alt="samarthshete" /> </p>
 
