@@ -17,14 +17,19 @@
 <h5 align="center">MS CS Grad @ GWU </h5>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samarthshete&label=Profile%20views&color=0e75b6&style=flat" alt="samarthshete" /> </p>
 
-- 🎓 Currently studying MS in Computer Science
+- 🎓 MS CS student @ **George Washington University**
   
-- 🌱 I’m currently sharpening **Data Structures and Algorithms,Machine Learning, Web Development**
+- 🌱 I’m currently sharpening ** Data Structures and Algorithms,LLMs, MLOps, and distributed architectures**
 
 - 👨‍💻 All of my projects are available at [samarthshete](https://github.com/samarthshete/samarthshete)
 
 - ⚡ Fun fact **Chai tastes way better than Coffee | Change my mind!**
 
+### 🧩 Featured Projects
+| Project | Description | Tech |
+|:--|:--|:--|
+| [**InterviewIQ**](https://github.com/samarthshete/InterviewIQ) | AI interview preparation platform with question generation & analytics | React · Flask · PostgreSQL · AWS |
+| [**SmartHire AI**](https://github.com/samarthshete/SmartHire-AI) | Intelligent recruitment system using NLP & resume analysis | Python · HuggingFace · MongoDB · FastAPI |
 
 ## Coding Profiles:
 
@@ -37,21 +42,43 @@
 
 
 # Tech Stack:
-# Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-  ![Node.js](https://img.shields.io/badge/nodejs-%2300B848.svg?style=for-the-badge&logo=node.js&logoColor=white) 
-  ![Express.js](https://img.shields.io/badge/express.js-%23404C56.svg?style=for-the-badge&logo=express&logoColor=white) 
-  ![React.js](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+#### 👨‍💻 Languages
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+#### 🧩 Frameworks & Libraries
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-%2300B848.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-%23404C56.svg?style=for-the-badge&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black)
+
+#### 🛠️ Databases & Cloud
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+#### 🧰 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+
 
 # 📊 GitHub Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samarthshete&show_icons=true&locale=en&layout=compact" alt="samarthshete" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samarthshete&show_icons=true&locale=en" alt="samarthshete" /></p>
 
+---
+
+### 🏗️ Current Focus
+- Building scalable **AI + Cloud** systems  
+- Enhancing **InterviewIQ** for intelligent job prep  
+- Researching **LLM orchestration** and **vector search**  
+- Contributing to open-source NLP tools 
