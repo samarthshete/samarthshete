@@ -17,9 +17,9 @@
 <h5 align="center">MS CS Grad @ GWU </h5>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samarthshete&label=Profile%20views&color=0e75b6&style=flat" alt="samarthshete" /> </p>
 
-- 🎓 MS CS student @ **George Washington University**
+- 🎓 Passionate about **AI systems, distributed architectures, and full-stack development**, I thrive at the intersection of software engineering and machine learning.  
   
-- 🌱 I’m currently sharpening ** Data Structures and Algorithms,LLMs, MLOps, and distributed architectures**
+- 🌱 Currently sharpening my skills in **Data Structures & Algorithms**, **LLMs**, **MLOps**, and **Cloud-native architectures**.  
 
 - 👨‍💻 All of my projects are available at [samarthshete](https://github.com/samarthshete/samarthshete)
 
