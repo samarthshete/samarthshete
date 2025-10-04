@@ -29,7 +29,7 @@
 | Project | Description | Tech |
 |:--|:--|:--|
 | [**InterviewIQ**](https://github.com/samarthshete/InterviewIQ) | AI interview preparation platform with question generation & analytics | React · Flask · PostgreSQL · AWS |
-| [**SmartHire AI**](https://github.com/samarthshete/SmartHire-AI) | Intelligent recruitment system using NLP & resume analysis | Python · HuggingFace · MongoDB · FastAPI |
+| [**SmartHire AI**](https://github.com/samarthshete/SmartHire/tree/main/SmartRecruit_LLM-main) | Intelligent recruitment system using NLP & resume analysis | Python · HuggingFace · MongoDB · FastAPI |
 
 ## Coding Profiles:
 
